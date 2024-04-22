@@ -1,0 +1,27 @@
+.header {
+  display: flex;
+}
+
+.header-left {
+  display: flex;
+}
+
+
+.header-search {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  /* border: 5px solid red; */
+  border-radius: 10px;
+  color: gray;
+  height: 22px;
+  background-color: #eef3f8;
+}
+
+.header-search > input {
+  outline: none;
+  border: none;
+  background: none;
+}
+
+
